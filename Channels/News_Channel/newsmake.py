@@ -10,7 +10,7 @@
 
 import binascii
 import calendar
-import CloudFlare
+import cloudlare
 import difflib
 import glob
 import json
