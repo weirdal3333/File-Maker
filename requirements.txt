@@ -13,3 +13,4 @@ rsa
 sentry_sdk
 unidecode
 pillow
+lxml_html_clean
